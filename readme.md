@@ -5,4 +5,4 @@ Can you rewrite the css code?
 
 <span style="color: gray; font-style: italic;">Web interfaces activity 1</span>
 
-<p><a href="">Click here</a></p>
+<p><a href="https://lozzdev.github.io/WhereIsMyCSS/">Click here</a></p>
